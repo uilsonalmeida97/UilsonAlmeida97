@@ -2,8 +2,8 @@
 
 Meu nome é Uilson Almeida 
 
--estou estudando dentro da plataforma Alura.
+-estou estudando dentro da plataforma [Alura](https://www.alura.com.br).
 
-![](https://tenor.com/pt-BR/view/caballeros-del-zodiaco-team-walk-gif-8941481)
+![](https://media1.tenor.com/m/LV5bhtypj0YAAAAC/seiya-shock.gif)
 
 
